@@ -1,6 +1,6 @@
 # Hello-CSS
 
-## What I`ve learned?
+## What I`ve learned:
 
 - box model
 - colors
